@@ -4,4 +4,4 @@ Poluchka is a fast, secure and simple solution for managing employee attendance 
 
 #### 🤯 General information
 
-- [White Paper](https://github.com/poluchka/about/blob/main/white_paper.md) ([RU](https://github.com/poluchka/about/blob/main/ru/white_paper.md))
+- [White Paper](https://github.com/poluchka/about/blob/main/white_paper.md) ([RU](https://github.com/poluchka/about/blob/main/ru/white_paper.md)) - will help you better understand the essence of the project
